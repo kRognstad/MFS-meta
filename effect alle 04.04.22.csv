@@ -1,0 +1,83 @@
+studyID;effectsizeID;y;v;Alder;Domain;AnalyseNOT;Brand;context;Author
+1;1;0,335752402;0,015857721;voksen;symptom;All;OQ;mixed;Amble
+4;3;0,004003016;0,009685306;voksen;symptom;All;OQ;out;de Jong 2012
+5;4;0,097364596;0,019952047;voksen;symptom;All;OQ;out;de Jong 2014
+5;5;0,221000478;0,020479992;voksen;symptom;All;OQ;out;de Jong 2014
+5;6;0,91;0,083285758;voksen;symptom;NOT;OQ;out;de Jong 2014
+5;7;1,28;0,090652121;voksen;symptom;NOT;OQ;out;de Jong 2014
+6;8;0,034715233;0,015291749;voksen;symptom;All;OQ;out;Hansson
+7;9;-0,003330189;0,029910756;voksen;symptom;All;OQ;out;Hawkins
+7;10;0,277180223;0,030843613;voksen;symptom;All;OQ;out;Hawkins
+8;11;0,441284938;0,062304739;voksen;symptom;NOT;OQ;uni;Lambert
+8;12;0,050232755;0,007368831;voksen;symptom;OT;OQ;uni;Lambert
+10;13;0,088434628;0,036592544;voksen;function;All;PCOMS;uni;Murphy
+12;14;0,255939155;0,062109267;voksen;function;All;PCOMS;uni;Reese
+12;15;0,58644827;0,059028775;voksen;function;All;PCOMS;uni;Reese
+13;16;0,116882074;0,019411392;voksen;symptom;NOT;OQ;out;Simon
+14;17;-0,582154923;0,105120288;voksen;symptom;All;OQ;out;Trudeau
+14;18;0,111931414;0,102041272;voksen;symptom;All;OQ;out;Trudeau
+15;19;0,01801257;0,004078862;voksen;symptom;All;OQ;uni;Whipple
+15;20;0,391575439;0,024986244;voksen;symptom;NOT;OQ;uni;Whipple
+15;21;0,223720261;0,019111495;voksen;symptom;NOT;OQ;uni;Whipple
+16;22;0,275943865;0,046099482;voksen;symptom;All;Other;out;Bastiaansen
+16;23;0,149237256;0,046741953;voksen;symptom;All;Other;out;Bastiaansen
+16;24;0,217558182;0,045935769;voksen;function;All;Other;out;Bastiaansen
+16;25;0,061608286;0,046634533;voksen;function;All;Other;out;Bastiaansen
+16;26;0,521478527;0,047211952;voksen;function;All;Other;out;Bastiaansen
+16;27;0,302869215;0,047145779;voksen;function;All;Other;out;Bastiaansen
+16;28;0,32937414;0,046283245;voksen;function;All;Other;out;Bastiaansen
+16;29;0,220099909;0,046894117;voksen;function;All;Other;out;Bastiaansen
+17;30;0,143518313;0,006302568;voksen;symptom;All;PCOMS;out;Bovendeerd
+17;31;-0,117406242;0,006298791;voksen;symptom;All;PCOMS;out;Bovendeerd
+18;32;0,222034125;0,035641335;voksen;symptom;All;PCOMS;out;Brattland
+18;33;0,392960276;0,036106462;voksen;function;All;PCOMS;out;Brattland
+19;34;0,5;0,048850744;voksen;symptom;All;Other;out;Connolly Gibbons
+20;35;0,166397777;0,001802614;voksen;symptom;All;Other;out;Delgadillo
+20;36;0,134604059;0,001800471;voksen;symptom;All;Other;out;Delgadillo
+20;37;0,149495028;0,001801418;voksen;function;All;Other;out;Delgadillo
+20;38;0,225727464;0,00313405;voksen;symptom;NOT;Other;out;Delgadillo
+20;39;0,192318817;0,003128629;voksen;symptom;NOT;Other;out;Delgadillo
+20;40;0,215876411;0,003132362;voksen;function;NOT;Other;out;Delgadillo
+22;41;0,116882074;0,019411392;voksen;symptom;NOT;OQ;out;Harris
+23;42;0,145706577;0,013890997;voksen;symptom;All;PCOMS;out;Janse
+25;43;0,470488313;0,045305407;voksen;function;All;PCOMS;out;Kelleybrew-Miller
+25;44;0,406896613;0,044998844;voksen;symptom;All;PCOMS;out;Kelleybrew-Miller
+25;45;0,358912252;0,044796939;voksen;alliance;All;PCOMS;out;Kelleybrew-Miller
+26;46;0,12325042;0,133586511;voksen;symptom;All;Other;gp;Kendrick
+27;47;-0,240520253;0,016159902;voksen;symptom;All;Other;out;Lutz
+29;48;0,045648043;0,082512845;voksen;symptom;All;PCOMS;out;Rise
+29;49;0,213502847;0,08295672;voksen;function;All;PCOMS;out;Rise
+29;50;0,153778408;0,082732887;voksen;alliance;All;PCOMS;out;Rise
+29;51;0,266666667;0,081879942;voksen;symptom;All;PCOMS;out;Rise
+29;52;0,116683373;0,081304981;voksen;function;All;PCOMS;out;Rise
+29;53;0;0,081168831;voksen;alliance;All;PCOMS;out;Rise
+30;54;0,330969893;0,014555548;voksen;function;All;PCOMS;uni;She
+30;55;0,289526226;0,068571848;voksen;function;NOT;PCOMS;uni;She
+32;56;0;0,041025641;voksen;symptom;All;Other;out;Schottke
+32;57;0,333333333;0,036709591;voksen;symptom;All;Other;out;Schottke
+32;58;0;0,041025641;voksen;symptom;All;Other;out;Schottke
+33;59;0,0190042;0,023986547;voksen;symptom;All;OQ;uni;White
+34;60;0,110769231;0,018209704;voksen;symptom;All;OQ;out;Errazuriz
+34;61;0,077805976;0,018720438;voksen;symptom;All;Other;out;Errazuriz
+34;62;0,072307692;0,01836216;voksen;symptom;All;OQ;out;Errazuriz
+34;63;-0,116841149;0,017741802;voksen;symptom;All;OQ;out;Errazuriz
+35;64;-0,079046766;0,00791699;voksen;symptom;All;Other;out;Lutz
+35;65;-0,126967444;0,007926165;voksen;symptom;All;Other;out;Lutz
+35;66;-0,158903735;0,00793465;voksen;symptom;All;Other;out;Lutz
+35;67;-0,111111111;0,007922657;voksen;symptom;All;Other;out;Lutz
+35;68;-0,128013077;0,007926413;voksen;symptom;All;Other;out;Lutz
+37;69;0,18;0,011816018;barn;symptom;All;Other;out;Bickman
+37;70;0,24;0,011853077;barn;symptom;All;Other;out;Bickman
+37;71;0,27;0,011875577;barn;symptom;All;Other;out;Bickman
+40;72;0,104708907;0,033954503;barn;symptom;All;PCOMS;in;Lester
+40;73;0,595091358;0,035408613;barn;function;All;PCOMS;in;Lester
+40;74;0,522156929;0,035063334;barn;alliance;All;PCOMS;in;Lester
+40;75;0,196761533;0,034072093;barn;symptom;All;PCOMS;in;Lester
+40;76;0,250127088;0,034173146;barn;function;All;PCOMS;in;Lester
+42;77;0,83;0,09;barn;symptom;All;Other;school;Melendez
+42;78;0,2;0,08;barn;symptom;All;Other;school;Melendez
+42;79;0,17;0,08;barn;symptom;All;Other;school;Melendez
+43;80;0,53;0,13;barn;symptom;All;PCOMS;uni;Cooper
+43;81;0,33;0,17;barn;symptom;All;PCOMS;uni;Cooper
+44;82;0,38;0,02;voksen;function;All;PCOMS;out;Duncan 2021
+44;83;0,05;0,02;voksen;symptom;All;PCOMS;out;Duncan 2021
